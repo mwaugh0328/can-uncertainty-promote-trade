@@ -18,9 +18,9 @@ PRELIMINARIES
 ---
 **Figure 1: Trade Policy Uncertainty and Exports**
 
-The folder ``Figure 1`` contains:
+The folder ``Figure-1`` contains:
 
-- ``TPUandExports.xlsx``
+- [``TPUandExports.xlsx``](Figure-1/TPUandExports.xlsx)
 Excel file with two data series.  
 1.	US exports from NIPA (quarterly frequency).
 2.	US Trade Policy Uncertainty (monthly frequency). Categorical Economic Policy Uncertainty Index for the U.S. constructed by Baker, Bloom, and Davis and downloaded from http://www.policyuncertainty.com. Variables are normalized to 100 for 2014Q1.

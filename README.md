@@ -6,7 +6,7 @@ Journal of International Economics, May 2020
 
 ---
 
-PRELIMINARIES
+**PRELIMINARIES**
 
 - Some routines use functions of the compecon library by Miranda and Fackler.
    [http://www4.ncsu.edu/~pfackler/compecon/toolbox.html](http://www4.ncsu.edu/~pfackler/compecon/toolbox.html)

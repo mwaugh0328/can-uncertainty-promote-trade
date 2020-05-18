@@ -1,6 +1,6 @@
 ### ["Can Global Uncertainty Promote International Trade?"](https://www.waugheconomics.com/uploads/2/2/5/6/22563786/bvw_june2019.pdf)
 
-Code repository for ["Can Global Uncertainty Promote International Trade?"](https://www.waugheconomics.com/uploads/2/2/5/6/22563786/bvw_june2019.pdf) by By Isaac Baley, Laura Veldkamp, and Michael Waugh
+Code repository for ["Can Global Uncertainty Promote International Trade?"](https://www.waugheconomics.com/uploads/2/2/5/6/22563786/bvw_june2019.pdf) by By [Isaac Baley](http://www.isaacbaley.com/), [Laura Veldkamp](https://www.waugheconomics.com/), and [Michael Waugh](https://www.waugheconomics.com/)
 
 Journal of International Economics, May 2020
 
